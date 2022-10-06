@@ -9,10 +9,10 @@
     color:  rgb(143, 120, 84); 
     padding: 10px 20px;
     border-radius: 10px;
-    
 }
 
 #navigation {
+
 
 }
 
@@ -30,6 +30,9 @@
     height: 300px;
     border-radius: 50%;
     background-size: cover;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-bottom: 3px solid black;
 }
 
 #date {

@@ -9,6 +9,8 @@
     color:  rgb(143, 120, 84); 
     padding: 10px 20px;
     border-radius: 10px;
+    width: 600px;
+    box-sizing: content-box;
 }
 
 #navigation {

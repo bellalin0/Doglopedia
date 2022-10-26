@@ -21,6 +21,8 @@
 .navigation {
     display: inline-block;
     color: black;
+    text-decoration: underline dotted;
+    padding: 15px 10px;
 }
 
 #sub-title {

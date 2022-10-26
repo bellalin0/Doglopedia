@@ -14,16 +14,17 @@
 }
 
 #navigation {
-
+    text-align: center;
 
 }
 
 .navigation {
-
+    display: inline-block;
+    color: black;
 }
 
 #sub-title {
-
+    text-align: center;
 }
 
 #image {
